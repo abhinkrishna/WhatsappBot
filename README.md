@@ -1,13 +1,14 @@
 # WhatsAppBot
-- Send 1000 Hi to your friend!
+Send 1000 Hi to your friend or
+Send Hi to 1000 friends (Coming soon)
 
-### Support
-- Windows Operating System
+### To run this program
+- MS Windows Operating System
 - Google Chrome Installed
 - Python Installed
-- Selenium python library added (See below how to add it)
+- Selenium Python library added (See below how to add it)
 
-##### Add Selenium python package
+#### Add Selenium python package
 ~~~
 pip install selenium
 ~~~
