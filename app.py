@@ -34,7 +34,7 @@ class Whatsapp_Bot:
                         btn.click()
                         self.count += 1
                         print(self.count) # Couting
-                        time.sleep(1)
+                        time.sleep(0.5)
                     except:
                         print(self.count,"Messages sended Successfully,",self.rep-self.count,"Missed.")
                         print("Retrying... Starting form",self.count)
